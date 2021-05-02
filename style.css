@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+	background-color: crimson;
+}
+
+h1 {
+	color: gold;
+}
+
+img {
+	transition: transform .2s;
+	border: 10px solid #AAAAAA;
+}
+
+img:hover {
+	transition: scale(0.9);
+}
